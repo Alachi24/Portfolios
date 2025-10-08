@@ -21,7 +21,7 @@ export default function Contact() {
               <Github />
             </a>
             <a
-              href="www.linkedin.com/in/chisaneme-aloni"
+              href="https://www.linkedin.com/in/chisaneme-aloni/"
               className="hover:text-blue-400"
             >
               <Linkedin />

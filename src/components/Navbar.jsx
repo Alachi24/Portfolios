@@ -19,7 +19,7 @@ export default function Navbar() {
             <Github />
           </a>
           <a
-            href="www.linkedin.com/in/chisaneme-aloni"
+            href="https://www.linkedin.com/in/chisaneme-aloni/"
             className="hover:text-blue-400"
           >
             <Linkedin />
@@ -51,7 +51,7 @@ export default function Navbar() {
                 <Github /> <span>GitHub</span>
               </a>
               <a
-                href="www.linkedin.com/in/chisaneme-aloni"
+                href="https://www.linkedin.com/in/chisaneme-aloni/"
                 className="hover:text-blue-400 flex items-center space-x-3 text-white w-full justify-center py-3 border border-gray-700 rounded-lg"
               >
                 <Linkedin /> <span>LinkedIn</span>
