@@ -49,7 +49,7 @@ const ProfileShowcase = () => {
     {
       platform: "Resume",
       username: "Download PDF",
-      link: "/Technical-Writer-Resume-Chisaneme-Aloni.pdf",
+      link: "/Technical_Writer_Resume.pdf",
       description: "View my full professional experience and skills",
       color: "from-red-500 to-orange-500",
       icon: "📄",
