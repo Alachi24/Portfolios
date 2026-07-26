@@ -26,16 +26,16 @@ const Projects = () => {
         code: "https://github.com/Alachi24/spotify-docs/tree/main",
       },
     },
-    // {
-    //   title: "Node.js Developer Docs",
-    //   description:
-    //     "Developed detailed developer documentation for Node.js tutorials using VuePress. Focused on core concepts and practical examples.",
-    //   tags: ["VuePress", "Node.js", "JavaScript"],
-    //   links: {
-    //     preview: "https://aahil-nodejs.netlify.app/",
-    //     code: "https://github.com/Aahil13/Node-docs",
-    //   },
-    // },
+    {
+      title: "Claude API Reference",
+      description:
+        "Created a comprehensive API reference for Claude, an AI language model. Including Messages API, system prompts, multi-turn conversations.",
+      tags: ["Vscode", "Postman-extension", "Mintlify", "OpenAPI", "Git"],
+      links: {
+        preview: "https://claude-api-docs.vercel.app/introduction",
+        code: "https://github.com/Alachi24/claude-api-docs",
+      },
+    },
     // {
     //   title: "The JavaScript Guide",
     //   description:
