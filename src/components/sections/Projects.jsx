@@ -36,6 +36,15 @@ const Projects = () => {
         code: "https://github.com/Alachi24/claude-api-docs",
       },
     },
+    {
+      title: "PostgreSQL on Ubuntu(WSL2) for MySQL Users",
+      description:
+        "Created a comprehensive guide for setting up and using PostgreSQL on Ubuntu within WSL2. Including installation steps, configuration, and basic usage examples.",
+      tags: ["PostgreSQL", "Ubuntu", "WSL2", "Database", "Docs-as-code"],
+      links: {
+        code: "https://github.com/Alachi24/postgresql-for-mysql-users",
+      },
+    },
     // {
     //   title: "The JavaScript Guide",
     //   description:
